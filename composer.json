@@ -1,0 +1,25 @@
+{
+    "name": "mphpmaster/laravel-meta",
+    "description": "Fluent Meta Data for Eloquent Models, as if it is a property on your model. hlaCk Edition",
+    "keywords": ["laravel", "meta", "metas", "meta data", "data", "metadata", "metable", "model", "eloquent", "kodeine", "hlack", "mPhpMaster"],
+    "authors": [{
+        "name": "Ahsen M.",
+        "homepage": "https://github.com/kodeine",
+        "role": "Developer"
+    },{
+        "name": "mPhpMaster",
+        "email": "59211285+mPhpMaster@users.noreply.github.com"
+    }],
+    "require": {
+        "php": ">=7.4",
+        "illuminate/support": "~5.0|~5.1|^6.0|^7.0|^8.0"
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-0": {
+            "mPhpMaster\\Metable\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+}
