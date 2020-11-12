@@ -16,8 +16,8 @@
     },
     "autoload": {
         "classmap": [],
-        "psr-0": {
-            "mPhpMaster\\Metable\\": "src/"
+        "psr-4": {
+            "mPhpMaster\\LaravelMeta\\": "src/Metable/"
         }
     },
     "minimum-stability": "stable",

@@ -1,6 +1,6 @@
 <?php
 
-namespace mPhpMaster\Metable;
+namespace mPhpMaster\LaravelMeta;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -61,7 +61,7 @@ public function down()
 Next, add the `Metable` trait to each of your metable model definition:
 
 ```php
-use mPhpMaster\Metable\Metable;
+use mPhpMaster\LaravelMeta\Metable;
 
 class Post extends Eloquent
 {
