@@ -14,8 +14,9 @@ trait Metable
     public static $_columnNames;
 
     /**
-     * Create and return an un-saved model instance.
-     *
+     * Method make.
+     * Create and return an un-saved model instance..
+     * 
      * @param array $attributes
      *
      * @return static
